@@ -4,7 +4,7 @@ A sleek, bouncing countdown timer screensaver for Windows.
 
 ## 📥 Downloads
 
-Looking for the screensaver file? Go to the **[Releases](https://github.com/REPLACE_WITH_YOUR_USERNAME/T-Minus/releases)** page on the right side of this screen and download `T-Minus.scr`.
+Looking for the screensaver? Just download `T-Minus.scr` above!
 
 ## ⚙️ Configuration
 
@@ -26,3 +26,4 @@ The optimized build system uses a virtual environment to keep the file size arou
 ## 📄 License
 
 MIT
+
